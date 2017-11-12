@@ -1,0 +1,40 @@
+Conjoint analysis
+	example: How to know what is important for customers
+		Ask them -> they do not know what they want, they want everything but dont want to pay, they do not really weight what is more important (no discrimination)
+	How to undesrstand the more importatn attributes
+		Dedicate time to the design of the evaluation
+		attributes shoudl be independet from the rest
+		select attribute values that are relevant (price)
+		cards are options (cards is slang for product management)
+
+		You rank the cards according to the attributed
+		These rankings can be used to calculate utilities 
+		Methods
+			full-factorial: you consider everything
+			Fractional/Orthogonal design: subset of all combinations but allow extrapolation
+		The information is compiled to calculate part woths (which means evaluating how valueable is an attribute)
+
+		You cannot compare the value of the level of an attribute to another level of another attribute
+
+		You can compare difference between difference in the level of the attributes
+
+		Analytic Hierarchical Process
+
+	Another concepts
+		Price elasticity
+		Willingness to pay
+
+
+	
+Text analytics (NLP)
+	Malcom blackwell
+	text analytics or video analytics
+	Compensating behavior -> workaround for cranberry juice
+
+	text classification
+	language modelling
+	speech recognition
+	caption generation
+
+	Everything is a document
+	
